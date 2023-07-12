@@ -13,6 +13,7 @@
 </div>
 
 <div align="center">
+	<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="20" height="20" />
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
 	<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
